@@ -59,8 +59,8 @@ If this plugin changed your life and you insist on buying me a beer, [I'm not go
 * **title**
 * **subtitle**
 * **author** - Open Library breaks authors up into an array, so this will be the first author if there are many.
-* **author 2** - If there are 2 authors, this will grab the name of the second.
-* **author 3** - Obvi…
+* **author_2** - If there are 2 authors, this will grab the name of the second.
+* **author_3** - Obvi…
 * **amazon** - Amazon link to the book. An affiliate link, if you set your tag in the config folder.
 * **goodreads** - Goodreads link to the book.
 * **openlibrary** - Open Library link for the book.

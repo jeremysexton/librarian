@@ -58,8 +58,8 @@ class Plugin_librarian extends Plugin {
 			'subtitle' => $book_info['subtitle'],
 			
 			'author' => $book_info['authors'][0]['name'],
-			'author 2' => $book_info['authors'][1]['name'],
-			'author 3' => $book_info['authors'][2]['name'],			
+			'author_2' => $book_info['authors'][1]['name'],
+			'author_3' => $book_info['authors'][2]['name'],			
 		);
 		
 		if ($amazon_affiliate) {
