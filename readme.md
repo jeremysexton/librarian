@@ -1,5 +1,11 @@
 #Librarian
 
+##Whoops
+
+Turns out, this isn't working nearly as well as it was when I first posted it. It's broke. I'm trying to work out a new solution, as part of the problem I believe is on Open Library's end. Use this plugin at your own peril!
+
+***
+
 A Statamic add-on to pull in book information from [Open Library](http://openlibrary.org).
 
 ##About
